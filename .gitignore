@@ -1,0 +1,8 @@
+playground.ipynb
+.ipynb_checkpoints/
+
+data/*.csv
+
+**/*.csv
+
+data/.gitignore
